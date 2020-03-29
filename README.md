@@ -10,6 +10,6 @@ precisam de doações e pessoas dispostas a ajudar.
 
 
 ## Tecnologias utilizadas
-  * NodeJS
-  * ReactJS
-  * React Native
+  * [Node.js](https://nodejs.org/en/)
+  * [React](https://reactjs.org/)
+  * [React Native](https://reactnative.dev/)
